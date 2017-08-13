@@ -1,2 +1,2 @@
 # TemperatureConverter
-Celsius degrees a Fahrenheit and conversely
+Converts from degrees celsius to fahrenheit and vice versa
